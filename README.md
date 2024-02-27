@@ -1,7 +1,7 @@
 # Hola, mi nombre es Fernando Ríos Arellano 👋
 ### Ingeniero en Tecnologías de la Información / Desarrollo de Software
 
-
+Programador novato con mucha hambre de explotar mis conocimientos y habilidades.
 
 ## Tecnologías:
 
